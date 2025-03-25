@@ -1,0 +1,62 @@
+[
+  {
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6IitJU0NtbkhOVXBFTVROa3FEaG9LSFE9PSIsInZhbHVlIjoibFdXdi8zTk91eDZPK1ZhTXFEV29QKytRYW5JSnZPcC9SdmtzdVFVbDVIZUxUOFFxRlRPajhaTmx3SXkyMUhlQzRqS241ZkhET0ZwVU10dTRkR2E5alJIRGZNQXFNNXV1R21OSkpLM3IyN041cnl5UTh6TE5PYUlsQURHZ01GVzciLCJtYWMiOiI4M2VlODk2ODNhNDgwM2Y3ZDgyMWI2OWEzOGM3YzA1MmM2MGMxOTYxZDllNDdlNTdjYjA2MWEwOWMzYjhkNDdiIiwidGFnIjoiIn0%3D",
+    "domain": "test.cybntournaments.com",
+    "path": "/",
+    "expires": 1742943823.558621,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cybn_session",
+    "value": "eyJpdiI6IldmZ21RYzIrUzcxQmxSNXVlT2hCMGc9PSIsInZhbHVlIjoid3RhaTZoR3g1STF0aHV3b1RJMmxRNTk5TFFhcXJRbW4vYTdWZ0NhRWNyS2t2QUgwMVZIeG53OTJTMWNMWkwxNVlaZGlhL0M3VUhJSU9yUVh4SjdwanhEczFKWWFKeVh4blNObEhpUjdVZFdzUDlCUG9uand0alFCVnpkOXNmQkUiLCJtYWMiOiJjYTMyODJlZmY2MGZiNWVjZWI1NDQzYjBmOTMwMjMyYjJmNjRiOTEzMTM5NzA1NzRjMzJlZGU3YzczMmQwYjI3IiwidGFnIjoiIn0%3D",
+    "domain": "test.cybntournaments.com",
+    "path": "/",
+    "expires": 1742943823.559093,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "acaAffinity",
+    "value": "\"4b15b48e170ae320\"",
+    "domain": "test.cybntournaments.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga_P1QXEN44V5",
+    "value": "GS1.1.1742936624.1.0.1742936624.60.0.0",
+    "domain": ".cybntournaments.com",
+    "path": "/",
+    "expires": 1777496624.555945,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.427400830.1742936625",
+    "domain": ".cybntournaments.com",
+    "path": "/",
+    "expires": 1777496624.556137,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "test_cookie",
+    "value": "CheckForPermission",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1742937524.733124,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  }
+]
