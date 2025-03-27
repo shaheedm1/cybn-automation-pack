@@ -1,27 +1,7 @@
 [
   {
-    "name": "XSRF-TOKEN",
-    "value": "eyJpdiI6IitJU0NtbkhOVXBFTVROa3FEaG9LSFE9PSIsInZhbHVlIjoibFdXdi8zTk91eDZPK1ZhTXFEV29QKytRYW5JSnZPcC9SdmtzdVFVbDVIZUxUOFFxRlRPajhaTmx3SXkyMUhlQzRqS241ZkhET0ZwVU10dTRkR2E5alJIRGZNQXFNNXV1R21OSkpLM3IyN041cnl5UTh6TE5PYUlsQURHZ01GVzciLCJtYWMiOiI4M2VlODk2ODNhNDgwM2Y3ZDgyMWI2OWEzOGM3YzA1MmM2MGMxOTYxZDllNDdlNTdjYjA2MWEwOWMzYjhkNDdiIiwidGFnIjoiIn0%3D",
-    "domain": "test.cybntournaments.com",
-    "path": "/",
-    "expires": 1742943823.558621,
-    "httpOnly": false,
-    "secure": true,
-    "sameSite": "Lax"
-  },
-  {
-    "name": "cybn_session",
-    "value": "eyJpdiI6IldmZ21RYzIrUzcxQmxSNXVlT2hCMGc9PSIsInZhbHVlIjoid3RhaTZoR3g1STF0aHV3b1RJMmxRNTk5TFFhcXJRbW4vYTdWZ0NhRWNyS2t2QUgwMVZIeG53OTJTMWNMWkwxNVlaZGlhL0M3VUhJSU9yUVh4SjdwanhEczFKWWFKeVh4blNObEhpUjdVZFdzUDlCUG9uand0alFCVnpkOXNmQkUiLCJtYWMiOiJjYTMyODJlZmY2MGZiNWVjZWI1NDQzYjBmOTMwMjMyYjJmNjRiOTEzMTM5NzA1NzRjMzJlZGU3YzczMmQwYjI3IiwidGFnIjoiIn0%3D",
-    "domain": "test.cybntournaments.com",
-    "path": "/",
-    "expires": 1742943823.559093,
-    "httpOnly": true,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
     "name": "acaAffinity",
-    "value": "\"4b15b48e170ae320\"",
+    "value": "\"a09fcdb27af45170\"",
     "domain": "test.cybntournaments.com",
     "path": "/",
     "expires": -1,
@@ -30,21 +10,11 @@
     "sameSite": "None"
   },
   {
-    "name": "_ga_P1QXEN44V5",
-    "value": "GS1.1.1742936624.1.0.1742936624.60.0.0",
-    "domain": ".cybntournaments.com",
-    "path": "/",
-    "expires": 1777496624.555945,
-    "httpOnly": false,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
     "name": "_ga",
-    "value": "GA1.1.427400830.1742936625",
+    "value": "GA1.1.188799068.1743062519",
     "domain": ".cybntournaments.com",
     "path": "/",
-    "expires": 1777496624.556137,
+    "expires": 1777622529.758273,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
@@ -54,9 +24,39 @@
     "value": "CheckForPermission",
     "domain": ".doubleclick.net",
     "path": "/",
-    "expires": 1742937524.733124,
+    "expires": 1743063419.442665,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
+  },
+  {
+    "name": "_ga_P1QXEN44V5",
+    "value": "GS1.1.1743062519.1.1.1743062529.50.0.0",
+    "domain": ".cybntournaments.com",
+    "path": "/",
+    "expires": 1777622529.758154,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6IjJjSW85UjJ1aDlEZlJ5eVI3dHFBUVE9PSIsInZhbHVlIjoiSmNFZUl2MjBPZTVxeUdCeUc0aWVhSmZaNS85TzN5dHFRTzZUZm1nbUlJQ0MzT0tFYm9QM0gyeDlybUd5UmdtUFdIVHU0bFlmMW16cThqRnp3bDcrOGVudGZQSTk1SDdMTlU1bVE2aXFBYk1JaFliTGlJZWVJTTZsdm5oZnkwMnoiLCJtYWMiOiJkN2FiMjFjODVkNTg2NGYzZmExMDJkMDBjZDM2YjFiNmM5ZTRkYzhhOGRkN2JiZjYwNTNkZDVmMDI2NDVjZDU4IiwidGFnIjoiIn0%3D",
+    "domain": "test.cybntournaments.com",
+    "path": "/",
+    "expires": 1743069730.83261,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cybn_session",
+    "value": "eyJpdiI6Ii9UaVRZQjlHZ29ORHJVK2JhVEJoZVE9PSIsInZhbHVlIjoicWluaVZ2RDUrQm1kQXhLaVdHalQ2ZlIzcEh1Y1V4cTBEUzR2TW5JUzNlbjFuTE9DV0FjYlRHRDNzNG16eFNaNXY4VWZKYlJ2UDF3MjRzbUJRd1JqNGN5V3k4bUtwOFNENXl5NXNUckdaZlJ5R05YS1FSS2xWSUxuSVY0YU9PTUUiLCJtYWMiOiI4ODA1NTBmODk3Y2RmM2ZiNTUwZWNhMGYwZDU2MGU1NmNhZDRkNDk5YzU5MWFmZWQzODY1Y2ZiMmYwYjhlZTcyIiwidGFnIjoiIn0%3D",
+    "domain": "test.cybntournaments.com",
+    "path": "/",
+    "expires": 1743069730.832628,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
   }
 ]

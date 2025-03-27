@@ -1,6 +1,10 @@
 {
-    "baseUrl": "https://test.cybntournaments.com/",
-    "loginUrl": "https://test.cybntournaments.com/login",
-    "uname": "shaheedm@digiteon.com",
-    "password": "*****"
+  "loginUrl": "https://test.cybntournaments.com/login",
+  "uname": "shaheedm@digiteon.com",
+  "password": "Password@1",
+  "FirstName": "Shaheed",
+  "LastName": "M",
+  "Email": "TestUser1743062579765@cybn.com",
+  "Phone": "01379410164",
+  "TestPW": "1234567890@1"
 }
