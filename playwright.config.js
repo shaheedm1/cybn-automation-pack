@@ -19,7 +19,7 @@ export default defineConfig({
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 2 : 0,
   // workers: process.env.CI ? 1 : undefined,
-  workers: 1, // Set to 1 worker for strict sequential execution
+  workers: 3,
 
   // custom allure reporter
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
@@ -44,7 +44,7 @@ export default defineConfig({
       use: {
         browserName: 'chromium',
         channel: 'chrome',
-        headless: false,
+        headless: true,
         viewport: null,
         actionTimeout: 5000,
 
